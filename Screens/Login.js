@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   input_field: {
     backgroudColor: '#fcfcfc',
-    margin: (16,8,16,8,)
+    margin: (16,8,16,8,),
   },
   button: {
     margin: (16,8,16,8)
